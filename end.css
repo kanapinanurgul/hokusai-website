@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;500&family=Texturina:wght@300&display=swap');
+a {
+  font-family: 'Texturina', serif;
+  font-style: italic;
+  font-size: 300%;
+  color: #650505;
+}
+a:visited {
+  color: #010047;
+}
+a:hover {
+  color: #310404;
+}
+
+.names {
+  text-align: center;
+  align-items: center;
+  max-width: 100%;
+  margin-bottom: 5%;
+}
+
+.data_header {
+  font-family: 'Raleway', sans-serif;
+  font: bold;
+  color: #03183a;
+
+  text-align: left;
+  margin-left: 10%;
+  margin-top: 10%;
+  font-size: 250%;
+}
+
+.data {
+  font-family: 'Raleway', sans-serif;
+  font-size: 150%;
+  color: #03183a;
+  max-width: 60%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
